@@ -105,23 +105,23 @@
   },
   "social": [
     {
-      "href": "https://twitter.com/aoepeople",
+      "href": "https://twitter.com/flintn",
       "icon": "x"
     },
     {
-      "href": "https://www.linkedin.com/company/aoe",
+      "href": "https://www.linkedin.com/company/flintn",
       "icon": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/aoe",
+      "href": "https://www.xing.com/company/flintn",
       "icon": "xing"
     },
     {
-      "href": "https://github.com/aoepeople",
+      "href": "https://github.com/flintn",
       "icon": "github"
     }
   ],
-  "imprint": "https://www.aoe.com/en/imprint.html",
+  "imprint": "https://www.flintn.com/en/imprint.html",
   "labels": {
     "title": "Technology Radar",
     "imprint": "Legal Information",
@@ -129,10 +129,10 @@
     "quadrantOverview": "Quadrant Overview",
     "zoomIn": "Zoom in",
     "filterByTag": "Filter by Tag",
-    "footer": "The technology radar is a project by AOE GmbH. Feel free to build your own radar based on the open source project.",
+    "footer": "The technology radar is a project by FlintN. Feel free to build your own radar based on the open source project.",
     "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary. Regrettably, our capacity to consistently revisit items from past Radar editions is limited.",
     "notFound": "404 - Page not found",
-    "pageAbout": "How to use AOE Technology Radar?",
+    "pageAbout": "How to use FlintN Technology Radar?",
     "pageOverview": "Technologies Overview",
     "pageSearch": "Search",
     "searchPlaceholder": "What are you looking for?",
