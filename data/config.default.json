@@ -13,14 +13,14 @@
   },
   "sections": ["radar", "tags", "list"],
   "colors": {
-    "foreground": "#fcf2e6",
-    "background": "#113521",
-    "highlight": "#d4a373",
+    "foreground": "#ffffff",
+    "background": "#ff8c00",
+    "highlight": "#ff8800",
     "content": "#fff",
-    "text": "#575757",
-    "link": "#bc6c25",
-    "border": "rgba(255, 255, 255, 0.1)",
-    "tag": "rgba(255, 255, 255, 0.1)"
+    "text": "#000000",
+    "link": "#ff8800",
+    "border": "rgba(0, 0, 0, 0.1)",
+    "tag": "rgba(0, 0, 0, 0.1)"
   },
   "quadrants": [
     {
@@ -105,34 +105,34 @@
   },
   "social": [
     {
-      "href": "https://twitter.com/flintn",
+      "href": "https://twitter.com/n_ix",
       "icon": "x"
     },
     {
-      "href": "https://www.linkedin.com/company/flintn",
+      "href": "https://www.linkedin.com/company/n-ix",
       "icon": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/flintn",
+      "href": "https://www.xing.com/company/n-ix",
       "icon": "xing"
     },
     {
-      "href": "https://github.com/flintn",
+      "href": "https://github.com/n-ix",
       "icon": "github"
     }
   ],
-  "imprint": "https://www.flintn.com/en/imprint.html",
+  "imprint": "https://www.n-ix.com/imprint",
   "labels": {
-    "title": "Technology Radar",
+    "title": "N-iX Technology Radar",
     "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
     "zoomIn": "Zoom in",
     "filterByTag": "Filter by Tag",
-    "footer": "The technology radar is a project by FlintN. Feel free to build your own radar based on the open source project.",
+    "footer": "The technology radar is a project by N-iX. Feel free to build your own radar based on the open source project.",
     "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary. Regrettably, our capacity to consistently revisit items from past Radar editions is limited.",
     "notFound": "404 - Page not found",
-    "pageAbout": "How to use FlintN Technology Radar?",
+    "pageAbout": "How to use N-iX Technology Radar?",
     "pageOverview": "Technologies Overview",
     "pageSearch": "Search",
     "searchPlaceholder": "What are you looking for?",

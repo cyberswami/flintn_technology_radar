@@ -22,12 +22,12 @@
   text-decoration: none;
   transition: all 150ms ease-in-out;
 
-  &:hover,
-  &:focus,
-  &.active {
-    background: var(--foreground);
-    color: var(--background);
-  }
+    &:hover,
+    &:focus,
+    &.active {
+      background: var(--foreground);
+      color: var(--text);
+    }
 
   &.active {
     .icon {
