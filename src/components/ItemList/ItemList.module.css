@@ -41,12 +41,12 @@
     opacity: 0.65;
   }
 
-  &:hover,
-  &.isActive {
-    background: var(--foreground);
-    color: var(--background);
-    opacity: 1;
-  }
+    &:hover,
+    &.isActive {
+      background: var(--foreground);
+      color: var(--text);
+      opacity: 1;
+    }
 }
 
 .isSmall {

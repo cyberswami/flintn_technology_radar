@@ -7,11 +7,11 @@
   padding: 0;
 }
 
-.icon {
-  fill: var(--background);
-  width: 16px;
-  height: 16px;
-}
+  .icon {
+    fill: var(--text);
+    width: 16px;
+    height: 16px;
+  }
 
 .link {
   display: block;

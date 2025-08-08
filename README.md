@@ -1,17 +1,17 @@
-# FlintN Technology Radar
+# N-iX Technology Radar
 
-A static site generator for FlintN Technology Radar
+A static site generator for N-iX Technology Radar
 
-![Screenshot of the FlintN Technology Radar](./docs/assets/screenshot-techradar.png)
+![Screenshot of the N-iX Technology Radar](./docs/assets/screenshot-techradar.png)
 
-## Looking for the FlintN Tech Radar content?
+## Looking for the N-iX Tech Radar content?
 
 - The repository is now found here: https://github.com/AOEpeople/techradar
-- The FlintN Tech radar is deployed here: https://www.flintn.com/techradar/index.html
+- The N-iX Tech radar is deployed here: https://www.n-ix.com/techradar/index.html
 
 ## ✨ Version 4.0.0
 
-Version 4.0.0 is a complete rewrite of the FlintN Technology Radar. It is now based
+Version 4.0.0 is a complete rewrite of the N-iX Technology Radar. It is now based
 on [Next.js](https://nextjs.org/) to provide enhanced static site generation. The visualization has
 been rewritten without the need for the D3 dependency. New features include a fuzzy search based on
 Fuse.js, non-overlapping blips on the radar, and a reworked tag filter on the homepage.
@@ -41,7 +41,7 @@ file like the following and adapt to your needs:
 
 ```json
 {
-  "name": "flintn-techradar",
+    "name": "nix-techradar",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -49,7 +49,7 @@ file like the following and adapt to your needs:
     "serve": "techradar serve"
   },
   "dependencies": {
-    "flintn_technology_radar": "^4"
+      "n-ix_technology_radar": "^4"
   }
 }
 ```
@@ -75,7 +75,7 @@ Open the `config.json` file and configure the radar to your needs.
 | Attribute   | Description                                                                                                                    |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | basePath    | Set if hosting under a sub-path, otherwise set it to `/`. Default is `/techradar`                                              |
-| baseUrl     | Set to the full URL, where the radar will be hosted. Will be used for sitemap.xml. `https://www.flintn.com/techradar`          |
+| baseUrl     | Set to the full URL, where the radar will be hosted. Will be used for sitemap.xml. `https://www.n-ix.com/techradar`          |
 | logoFile    | (optional) Filepath in public folder. Default is `logo.svg`                                                                    |
 | jsFile      | (optional) Filepath in public folder or URL to enable include of custom script                                                 |
 | toggles     | (optional) Modify the behaviour and contents of the radar. See config below.                                                   |
